@@ -37,7 +37,10 @@
 {title:Description}
 
 {pstd}
-The command works in windows only. It searches meaning for a word or phrase, and paste the search result in a temporary notepad file. If you close the notepad window, the search result is deleted. If you specify pronunciation option, make sure to turn on the audio from your computer.
+The command works in windows only. It searches meaning for a word or phrase, and paste the search result in a temporary notepad file. If you close the notepad window, the search result is deleted. 
+
+{pstd}
+If you specify pronunciation option, make sure to turn on the audio from your computer.
 
 
 {marker remarks}{...}
