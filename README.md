@@ -27,7 +27,7 @@ help meaning
 ## Options
 | Options      | Description |
 | ---        |    ----   |
-| <u>pro</u>nounce |  The name of the XLSform, including the path | 
+| <u>pro</u>nounce |  Listen to the pronunciation. Remember to turn on audio. | 
 
 ## Example Syntax
 ```Stata
